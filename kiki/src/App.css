@@ -104,3 +104,24 @@ form {
   margin: auto;
 }
 
+
+.priority {
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Priority colors */
+.low {
+  background-color: green;
+}
+
+.medium {
+  background-color: orange;
+}
+
+.high {
+  background-color: red;
+}

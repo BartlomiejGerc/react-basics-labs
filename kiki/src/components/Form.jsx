@@ -2,8 +2,7 @@ const AddTaskForm = (props) => {
 
   return (
     <div>
-      <form>  
-        onSubmit={props.submit}
+      <form onSubmit={props.submit}>
 
         <label>
             Task title:
